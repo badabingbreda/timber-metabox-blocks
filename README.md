@@ -84,7 +84,7 @@ Simply set the render_callback setting in your code, or use the setting in the M
 
     "render_callback" => "\TimberMetaboxBlocks\timber_blocks_callback",
 
-<img src="docs/using-as-a-render-callback.png" title="Enter the callback used by the plugin to render using Timber">
+<img src="/docs/using-as-a-render-callback.png" title="Enter the callback used by the plugin to render using Timber">
 
 ### Timber views directory
 
